@@ -15,13 +15,13 @@
 </p>
 
 <p align="center">
-  <a href="https://sajib-ahmed.vercel.app">
+  <a href="https://sajib-dev.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-5F1CCF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://github.com/sajib925">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/sajibahmed">
+  <a href="https://www.linkedin.com/in/sajib7">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -44,8 +44,8 @@ I also build and extend modern website platforms through **Framer, Framer Plugin
 
 # 🚀 What I Do
 
-<table>
-<tr>
+<table width="100%">
+<tr width="100%">
 <td width="50%">
 
 ### ⚛️ Full-Stack Development
